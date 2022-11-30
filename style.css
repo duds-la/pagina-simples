@@ -1,0 +1,53 @@
+.titulo-prin{
+    padding-left: 20px;
+}
+.titulo-centro{
+    text-align:center;
+}
+#banner{
+    width: 100%;
+}
+
+.principal{
+    background-color: #CCCCCC;
+    padding: 30px;
+
+}
+
+p{
+ text-align: center;
+ 
+}
+
+em strong{
+    color: red;
+}
+
+#missao{
+    font-size: 20px;
+
+}
+
+.itens{
+    font-style: italic;
+
+}
+
+.beneficios{
+    background-color: white;
+    padding: 20px;
+
+}
+
+
+.img-bene{
+    width: 50%;
+}
+
+ul{
+    display: inline-block;
+    vertical-align:top;
+    width: 20%;
+    margin-right: 15%;
+
+}
